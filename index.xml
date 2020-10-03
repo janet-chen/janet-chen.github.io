@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janet Chen</title>
-    <link>https://example.edu/</link>
+    <link>https://janet-chen.github.io/</link>
     <description>Recent content on Janet Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.edu/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://janet-chen.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
