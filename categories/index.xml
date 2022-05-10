@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Janet X. Chen</title>
-    <link>./categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Janet X. Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="./categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Projects</title>
+      <link>/categories/academic-projects/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/academic-projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

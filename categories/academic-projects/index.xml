@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Projects on Janet X. Chen</title>
+    <link>/categories/academic-projects/</link>
+    <description>Recent content in Academic Projects on Janet X. Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/academic-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Happens to Data after Death?</title>
+      <link>/post/2021/05/01/what-happens-to-data-after-death/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/01/what-happens-to-data-after-death/</guid>
+      <description>Download the PDF Download the design workbook This study in the news:  Abstract  Digital data has become a key part of everyday life: people manage increasingly large and disparate collections of photos, documents, media, etc. But what happens after death? How can users select and prepare what data to leave behind before their eventual death? To explore how to support users, we first ran an ideation workshop to generate design ideas; then, we created a design workbook with 12 speculative concepts that explore diverging approaches and perspectives.</description>
+    </item>
+    
+  </channel>
+</rss>
